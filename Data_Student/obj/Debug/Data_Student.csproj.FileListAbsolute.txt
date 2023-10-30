@@ -1,0 +1,12 @@
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\bin\Debug\Data_Student.exe.config
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\bin\Debug\Data_Student.exe
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\bin\Debug\Data_Student.pdb
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\obj\Debug\Data_Student.csprojResolveAssemblyReference.cache
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\obj\Debug\Data_Student.exe
+E:\برمجة\حاسوب مستوى 2\الترم الثاني\برمجة هدفية 2\تطبيقات\Data_Student\Data_Student\obj\Debug\Data_Student.pdb
+G:\Data_Student\Data_Student\bin\Debug\Data_Student.exe.config
+G:\Data_Student\Data_Student\obj\Debug\Data_Student.exe
+G:\Data_Student\Data_Student\obj\Debug\Data_Student.pdb
+G:\Data_Student\Data_Student\bin\Debug\Data_Student.exe
+G:\Data_Student\Data_Student\bin\Debug\Data_Student.pdb
+G:\Data_Student\Data_Student\obj\Debug\Data_Student.csprojResolveAssemblyReference.cache
